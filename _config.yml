@@ -53,7 +53,7 @@ features                                  :
 
   - title                                 : Get to know the candidates
     description                           : See critical information to make an informed vote.
-    fontawesome_icon_name                 : fa-solid fa-newspaper
+    fontawesome_icon_name                 : fa-solid fa-circle-info
   
   - title                                 : See who's running
     description                           : See which candidates are running for each office with an easy to use interface.
