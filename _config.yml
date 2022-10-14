@@ -49,7 +49,7 @@ features                                  :
 
   - title                                 : Up to date
     description                           : Stay on top of new developments with access to a specific candidate's social media page provided within the app.
-    fontawesome_icon_name                 : fa-solid fa-rotate
+    fontawesome_icon_name                 : fa-solid fa-arrows-rotate
 
   - title                                 : Get to know the candidates
     description                           : See critical information to make an informed vote.
