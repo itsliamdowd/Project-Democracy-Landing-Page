@@ -57,7 +57,7 @@ features                                  :
   
   - title                                 : See who's running
     description                           : See which candidates are running for each office with an easy to use interface.
-    fontawesome_icon_name                 : fa-solid fa-user
+    fontawesome_icon_name                 : fas fa-users
 
 
 
