@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Easy to use
     description                           : Project Democracy makes it easy to make an informed vote.
-    fontawesome_icon_name                 : box-ballot
+    fontawesome_icon_name                 : fa-solid fa-ballot-check
     
   - title                                 : Local to you
     description                           : All information within the app is specific to the location you provide.
@@ -45,19 +45,19 @@ features                                  :
 
   - title                                 : Fair and unbiased
     description                           : You can trust that the information from Project Democracy is free of any bias.
-    fontawesome_icon_name                 : scale-balanced
+    fontawesome_icon_name                 : fa-solid fa-scale-balanced
 
   - title                                 : Up to date
     description                           : Stay on top of new developments with access to a specific candidate's social media page provided within the app.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : fa-solid fa-rotate
 
   - title                                 : Get to know the candidates
     description                           : See critical information to make an informed vote.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : fa-solid fa-newspaper
   
   - title                                 : See who's running
     description                           : See which candidates are running for each office with an easy to use interface.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : fa-solid fa-user
 
 
 
