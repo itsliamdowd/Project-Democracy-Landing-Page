@@ -7,7 +7,7 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://github.com/SkiingIsFun123/Democracy                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://github.com/itsliamdowd/Project-Democracy                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -21,13 +21,13 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Liam                                
-your_link                                 : https://example.com                     
+your_link                                 :                   
 your_city                                 : California                                
-email_address                             : example@example.com
+email_address                             : 
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : CodingInTheOC
-github_username                           : SkiingIsFun123
+twitter_username                          : 
+github_username                           : itsliamdowd
 youtube_username                          :
 
 
